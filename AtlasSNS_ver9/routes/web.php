@@ -16,7 +16,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-
+// ここでルーティングします。
 
 require __DIR__ . '/auth.php';
 
